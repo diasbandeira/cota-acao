@@ -1,0 +1,13 @@
+source 'http://rubygems.org'
+
+gem 'capybara'
+gem 'cucumber'
+gem 'rspec'
+#gem 'selenium-webdriver', '3.142.0'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'faker'
+#gem 'faker', github: 'stympy/faker'
+gem 'httparty'
+#gem 'byebug'
+gem 'cpf_faker'
